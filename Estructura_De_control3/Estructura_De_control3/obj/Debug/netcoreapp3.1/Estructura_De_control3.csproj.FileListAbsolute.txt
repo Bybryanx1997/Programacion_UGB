@@ -1,0 +1,14 @@
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\obj\Debug\netcoreapp3.1\Estructura_De_control3.csproj.AssemblyReference.cache
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\obj\Debug\netcoreapp3.1\Estructura_De_control3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\obj\Debug\netcoreapp3.1\Estructura_De_control3.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\obj\Debug\netcoreapp3.1\Estructura_De_control3.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\obj\Debug\netcoreapp3.1\Estructura_De_control3.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\bin\Debug\netcoreapp3.1\Estructura_De_control3.exe
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\bin\Debug\netcoreapp3.1\Estructura_De_control3.deps.json
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\bin\Debug\netcoreapp3.1\Estructura_De_control3.runtimeconfig.json
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\bin\Debug\netcoreapp3.1\Estructura_De_control3.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\bin\Debug\netcoreapp3.1\Estructura_De_control3.dll
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\bin\Debug\netcoreapp3.1\Estructura_De_control3.pdb
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\obj\Debug\netcoreapp3.1\Estructura_De_control3.dll
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\obj\Debug\netcoreapp3.1\Estructura_De_control3.pdb
+C:\Users\Anthony\source\repos\Estructura_De_control3\Estructura_De_control3\obj\Debug\netcoreapp3.1\Estructura_De_control3.genruntimeconfig.cache

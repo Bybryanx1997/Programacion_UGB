@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Anthony\Desktop\C#\Esctructura_de_control3.cs" Link="Esctructura_de_control3.cs" />
+  </ItemGroup>
+
+</Project>
