@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\actividad1v2\actividad1v2\bin\Debug\actividad1v2.exe.config
+C:\Users\Anthony\source\repos\actividad1v2\actividad1v2\bin\Debug\actividad1v2.exe
+C:\Users\Anthony\source\repos\actividad1v2\actividad1v2\bin\Debug\actividad1v2.pdb
+C:\Users\Anthony\source\repos\actividad1v2\actividad1v2\obj\Debug\actividad1v2.csproj.AssemblyReference.cache
+C:\Users\Anthony\source\repos\actividad1v2\actividad1v2\obj\Debug\actividad1v2.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\actividad1v2\actividad1v2\obj\Debug\actividad1v2.exe
+C:\Users\Anthony\source\repos\actividad1v2\actividad1v2\obj\Debug\actividad1v2.pdb
