@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esctructura_de_control2/1.0.0": {
+        "runtime": {
+          "Esctructura_de_control2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esctructura_de_control2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

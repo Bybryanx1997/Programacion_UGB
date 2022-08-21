@@ -1,0 +1,14 @@
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\obj\Debug\netcoreapp3.1\Esctructura_de_control2.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\obj\Debug\netcoreapp3.1\Esctructura_de_control2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\obj\Debug\netcoreapp3.1\Esctructura_de_control2.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\obj\Debug\netcoreapp3.1\Esctructura_de_control2.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\obj\Debug\netcoreapp3.1\Esctructura_de_control2.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\bin\Debug\netcoreapp3.1\Esctructura_de_control2.exe
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\bin\Debug\netcoreapp3.1\Esctructura_de_control2.deps.json
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\bin\Debug\netcoreapp3.1\Esctructura_de_control2.runtimeconfig.json
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\bin\Debug\netcoreapp3.1\Esctructura_de_control2.runtimeconfig.dev.json
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\bin\Debug\netcoreapp3.1\Esctructura_de_control2.dll
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\bin\Debug\netcoreapp3.1\Esctructura_de_control2.pdb
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\obj\Debug\netcoreapp3.1\Esctructura_de_control2.dll
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\obj\Debug\netcoreapp3.1\Esctructura_de_control2.pdb
+C:\Users\Anthony\Desktop\C#\Esctructura_de_control2\Esctructura_de_control2\obj\Debug\netcoreapp3.1\Esctructura_de_control2.genruntimeconfig.cache
