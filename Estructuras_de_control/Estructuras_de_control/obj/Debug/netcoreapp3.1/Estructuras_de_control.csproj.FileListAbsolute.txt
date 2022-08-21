@@ -1,0 +1,14 @@
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\bin\Debug\netcoreapp3.1\Estructuras_de_control.exe
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\bin\Debug\netcoreapp3.1\Estructuras_de_control.deps.json
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\bin\Debug\netcoreapp3.1\Estructuras_de_control.runtimeconfig.json
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\bin\Debug\netcoreapp3.1\Estructuras_de_control.runtimeconfig.dev.json
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\bin\Debug\netcoreapp3.1\Estructuras_de_control.dll
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\bin\Debug\netcoreapp3.1\Estructuras_de_control.pdb
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\obj\Debug\netcoreapp3.1\Estructuras_de_control.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\obj\Debug\netcoreapp3.1\Estructuras_de_control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\obj\Debug\netcoreapp3.1\Estructuras_de_control.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\obj\Debug\netcoreapp3.1\Estructuras_de_control.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\obj\Debug\netcoreapp3.1\Estructuras_de_control.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\obj\Debug\netcoreapp3.1\Estructuras_de_control.dll
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\obj\Debug\netcoreapp3.1\Estructuras_de_control.pdb
+C:\Users\Anthony\Desktop\C#\Estructuras_de_control\Estructuras_de_control\obj\Debug\netcoreapp3.1\Estructuras_de_control.genruntimeconfig.cache
