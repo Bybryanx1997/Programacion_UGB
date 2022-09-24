@@ -1,0 +1,27 @@
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\bin\Debug\Formulario de registro.exe.config
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\bin\Debug\Formulario de registro.exe
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\bin\Debug\Formulario de registro.pdb
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.AssemblyReference.cache
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\obj\Debug\Formulario_de_registro.Form1.resources
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\obj\Debug\Formulario_de_registro.Properties.Resources.resources
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.exe
+C:\Users\Anthony\source\repos\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.pdb
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.AssemblyReference.cache
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\obj\Debug\Formulario_de_registro.Form1.resources
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\obj\Debug\Formulario_de_registro.Properties.Resources.resources
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.GenerateResource.cache
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.exe
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.pdb
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\bin\Debug\Formulario de registro.exe.config
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\bin\Debug\Formulario de registro.exe
+C:\Users\luisb\Desktop\Formulario de registro\Formulario de registro\bin\Debug\Formulario de registro.pdb
+C:\Users\Anthony\Desktop\C#\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\C#\Formulario de registro\Formulario de registro\obj\Debug\Formulario_de_registro.Form1.resources
+C:\Users\Anthony\Desktop\C#\Formulario de registro\Formulario de registro\obj\Debug\Formulario_de_registro.Properties.Resources.resources
+C:\Users\Anthony\Desktop\C#\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\C#\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\C#\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.exe
+C:\Users\Anthony\Desktop\C#\Formulario de registro\Formulario de registro\obj\Debug\Formulario de registro.pdb
