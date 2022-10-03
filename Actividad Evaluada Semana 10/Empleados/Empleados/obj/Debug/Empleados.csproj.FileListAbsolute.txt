@@ -1,0 +1,44 @@
+C:\Users\David\source\repos\Empleados\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\David\source\repos\Empleados\Empleados\bin\Debug\Empleados.exe
+C:\Users\David\source\repos\Empleados\Empleados\bin\Debug\Empleados.pdb
+C:\Users\David\source\repos\Empleados\Empleados\obj\Debug\Empleados.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Empleados\Empleados\obj\Debug\Empleados.Form1.resources
+C:\Users\David\source\repos\Empleados\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\David\source\repos\Empleados\Empleados\obj\Debug\Empleados.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Empleados\Empleados\obj\Debug\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Empleados\Empleados\obj\Debug\Empleados.exe
+C:\Users\David\source\repos\Empleados\Empleados\obj\Debug\Empleados.pdb
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\bin\Debug\Empleados.exe
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\bin\Debug\Empleados.pdb
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\obj\Debug\Empleados.csprojAssemblyReference.cache
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\obj\Debug\Empleados.Form1.resources
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\obj\Debug\Empleados.csproj.GenerateResource.cache
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\obj\Debug\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\obj\Debug\Empleados.exe
+C:\Users\David\OneDrive - Universidad Gerardo Barrios\2022\Ciclo II\Programación 1\Semana 9\Empleados\Empleados\obj\Debug\Empleados.pdb
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\bin\Debug\Planilla.mdf
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\bin\Debug\Planilla_log.ldf
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\bin\Debug\Empleados.exe
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\bin\Debug\Empleados.pdb
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\obj\Debug\Empleados.csprojAssemblyReference.cache
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\obj\Debug\Empleados.Form1.resources
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\obj\Debug\Empleados.csproj.GenerateResource.cache
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\obj\Debug\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\obj\Debug\Empleados.exe
+C:\Users\fredy\Downloads\Empleados\Empleados\Empleados\obj\Debug\Empleados.pdb
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\bin\Debug\Planilla.mdf
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\bin\Debug\Planilla_log.ldf
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\bin\Debug\Empleados.exe
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\bin\Debug\Empleados.pdb
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\obj\Debug\Empleados.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\obj\Debug\Empleados.Form1.resources
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\obj\Debug\Empleados.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\obj\Debug\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\obj\Debug\Empleados.exe
+C:\Users\Anthony\Desktop\fernando\Empleados\Empleados\obj\Debug\Empleados.pdb
